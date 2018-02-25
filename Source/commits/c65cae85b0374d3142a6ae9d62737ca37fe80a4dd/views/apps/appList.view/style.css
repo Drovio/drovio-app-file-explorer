@@ -1,0 +1,140 @@
+.appList {
+	position: relative;
+	height: 100%;
+	width: 100%;
+}
+.appList .pathbar {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	height: 30px;
+	line-height: 25px;
+	padding: 3px 5px;
+	overflow: hidden;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+.appList .pathbar .mi {
+	float: left;
+	margin: 0px 3px;
+	cursor: pointer;
+	color: #555;
+	transition: all .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+}
+
+.appList .pathbar .mi.separator, .appList .pathbar .mi.current {
+	color: #999;
+	cursor: default;
+	display: none;
+}
+
+.appList .pathbar.fxview .mi.all {
+	color: #999;
+}
+
+.appList .pathbar.fxview .mi.separator, .appList .pathbar.fxview .mi.current {
+	display: block;
+	color: #555;
+}
+
+.appList .pathbar .mi:hover {
+	color: #555 !important;
+	transition: all .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+}
+
+.appList .list {
+	position: absolute;
+	top: 30px;
+	left: 0px;
+	width: 100%;
+	bottom: 0px;
+}
+
+.appList.fxview .list {
+	display: none;
+}
+
+.appList .fxContainer {
+	display: none;
+	position: absolute;
+	top: 30px;
+	left: 0px;
+	width: 100%;
+	bottom: 0px;
+}
+
+.appList.fxview .fxContainer {
+	display: block;
+}
+
+.appList .list .hd {
+	font-size: 14px;
+	font-weight: normal;
+	margin: 10px 0px;
+	color: #555;
+	clear: both;
+	text-align: center;
+}
+.appList .list .appBox {
+	position: relative;
+	width: 120px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	overflow: hidden;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border: 1px solid transparent;
+	cursor: pointer;
+	float: left;
+	margin: 5px;
+	transition: all .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+}
+
+.appList .list .appBox .ico {
+	display: block;
+	width: 50px;
+	height: 50px;
+	margin: 5px auto;
+}
+
+.appList .list .appBox .ico img {
+	width: 100%;
+	height: 100%;
+}
+
+.appList .list .appBox .title {
+	display: block;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	overflow: hidden;
+	font-size: 12px;
+	color: #555459;
+	padding: 5px 10px;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	border-top: 1px solid transparent;
+	transition: all .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+	text-align: center;
+}
+
+.appList .list .appBox:hover {
+	background: #FFF;
+	border: 1px solid #CCC;
+	transition: all .2s ease-in-out;
+	-webkit-transition: all .2s ease-in-out;
+	-moz-transition: all .2s ease-in-out;
+}
