@@ -1,0 +1,14 @@
+<DATA>
+
+	<ROW>
+		<id>51</id>
+		<name>FileExplorer</name>
+		<title>File Explorer</title>
+		<description>A simple file explorer to see all the team files.</description>
+		<projectType>4</projectType>
+		<team_id>7</team_id>
+		<online>1</online>
+		<open>0</open>
+		<public>0</public>
+	</ROW>
+</DATA>

@@ -1,0 +1,86 @@
+<DATA>
+
+	<ROW>
+		<id>c96532b72fd2dd78e8159e4d724f993d757db13d5</id>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<parent>0</parent>
+		<time>1418128927</time>
+		<author_id>1</author_id>
+		<summary>Initial application commit.</summary>
+		<description></description>
+		<tags></tags>
+	</ROW>
+
+	<ROW>
+		<id>cf08b92417af46fb04737099f2d29aa1119e0a7a9</id>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<parent>0</parent>
+		<time>1442328721</time>
+		<author_id>1</author_id>
+		<summary>Updating singularity for the file explorer object.</summary>
+		<description></description>
+		<tags>explorer, unique</tags>
+	</ROW>
+
+	<ROW>
+		<id>c53a72031d2ef6c63166e804017803130ef4c69c0</id>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<parent>0</parent>
+		<time>1443910516</time>
+		<author_id>1</author_id>
+		<summary>File explorer updated to use the mask feature to mask application folders into recognizable names.</summary>
+		<description></description>
+		<tags>mask</tags>
+	</ROW>
+
+	<ROW>
+		<id>c726812a90cad71d5fcbb39ddf937db2d8d40367e</id>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<parent>0</parent>
+		<time>1444401978</time>
+		<author_id>1</author_id>
+		<summary>File explorer updated to show a more detailed menu of the team directory structure.</summary>
+		<description></description>
+		<tags></tags>
+	</ROW>
+
+	<ROW>
+		<id>c11d45a28cf4d6ea622cdef3ea539de0f988b38ff</id>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<parent>0</parent>
+		<time>1444425816</time>
+		<author_id>1</author_id>
+		<summary>Bug fixes and translations.</summary>
+		<description></description>
+		<tags></tags>
+	</ROW>
+
+	<ROW>
+		<id>c65cae85b0374d3142a6ae9d62737ca37fe80a4dd</id>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<parent>0</parent>
+		<time>1444761662</time>
+		<author_id>1</author_id>
+		<summary>Explorers updated to include developer applications in the list (if any).</summary>
+		<description></description>
+		<tags></tags>
+	</ROW>
+
+	<ROW>
+		<id>cb276bed87f531c53823fbba26480af878a49f360</id>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<parent>0</parent>
+		<time>1446037643</time>
+		<author_id>1</author_id>
+		<summary>Account directory explorer added.</summary>
+		<description></description>
+		<tags></tags>
+	</ROW>
+</DATA>

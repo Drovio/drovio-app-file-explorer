@@ -1,0 +1,101 @@
+<DATA>
+
+	<ROW>
+		<id>app19a6df347a2aacb718155a78b5f346c6</id>
+		<project_id>51</project_id>
+		<path>/views/</path>
+		<name>sharedExplorer.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app636e3f7f85342d00361843eb5dd4737e</id>
+		<project_id>51</project_id>
+		<path>/views/</path>
+		<name>systemExplorer.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app658be6cf8728202de250eaef9510c148</id>
+		<project_id>51</project_id>
+		<path>/</path>
+		<name>source.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app6c7b29d3d0d5eeceb81dbb2a34b9fea7</id>
+		<project_id>51</project_id>
+		<path>/views/apps</path>
+		<name>appList.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app6e0d0df8a7526ebf89c9d607750bae59</id>
+		<project_id>51</project_id>
+		<path>/</path>
+		<name>settings.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app7c9773224337ced3d0af4d5239a35987</id>
+		<project_id>51</project_id>
+		<path>/views/</path>
+		<name>appExplorer.view</name>
+		<smart>1</smart>
+		<deleted>1</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app8766d6119302e58d0994105f67a69f10</id>
+		<project_id>51</project_id>
+		<path>/</path>
+		<name>index.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app8b551766a6314c62151dba40ffdb1ab9</id>
+		<project_id>51</project_id>
+		<path>/</path>
+		<name>views.xml</name>
+		<smart>0</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>app9f811dbeb0a21fde5dd9f2ae06de6086</id>
+		<project_id>51</project_id>
+		<path>/views/</path>
+		<name>MainView.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appca056be4a00124475c048cc548a2cdb4</id>
+		<project_id>51</project_id>
+		<path>/views/apps</path>
+		<name>appExplorer.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+
+	<ROW>
+		<id>appe0da81e4a17abc73b6d36bae504b1fe5</id>
+		<project_id>51</project_id>
+		<path>/views/</path>
+		<name>fullExplorer.view</name>
+		<smart>1</smart>
+		<deleted>0</deleted>
+	</ROW>
+</DATA>

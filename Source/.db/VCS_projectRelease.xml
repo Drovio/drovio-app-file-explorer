@@ -1,0 +1,100 @@
+<DATA>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>1.0</version>
+		<build>1</build>
+		<time>1418128983</time>
+		<title>File Explorer Initial Release</title>
+		<description>A simple file explorer for the team files.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>1.0</version>
+		<build>2</build>
+		<time>1439884901</time>
+		<title>File Explorer</title>
+		<description>Visual enhancements in ui, icons and ux.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>1.0</version>
+		<build>3</build>
+		<time>1439885453</time>
+		<title>File Explorer</title>
+		<description>Visual enhancements in ui, icons and ux.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>1.5</version>
+		<build>1</build>
+		<time>1442328766</time>
+		<title>File Explorer</title>
+		<description>Bugs fixed and improvements.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>1.5</version>
+		<build>2</build>
+		<time>1443910576</time>
+		<title>File Explorer</title>
+		<description>Mask feature added to allow users to see application names instead of hash folder names in the private application folder.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>2</version>
+		<build>1</build>
+		<time>1444402236</time>
+		<title>File Explorer</title>
+		<description>New layout, more structured views.
+This new file explorer designed to split team folders into sections to be more readable.
+It includes 4 views:
+- Team application explorer and their files
+- Shared files
+- System files (if you are using a system app. in read-only mode)
+- All files (in read-only mode)</description>
+	</ROW>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>2</version>
+		<build>2</build>
+		<time>1444425884</time>
+		<title>File Explorer</title>
+		<description>Initialization bug fixed.
+Minor translation bug fixes.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>2</version>
+		<build>3</build>
+		<time>1444761766</time>
+		<title>File Explorer</title>
+		<description>Development mode added to include developer's applications.
+This feature will include applications that are being developed by the team and are not in the market or their enterprise dashboard.</description>
+	</ROW>
+
+	<ROW>
+		<project_id>51</project_id>
+		<branch_name>master</branch_name>
+		<version>2</version>
+		<build>4</build>
+		<time>1446037959</time>
+		<title>File Explorer</title>
+		<description>Account directory explorer added.</description>
+	</ROW>
+</DATA>
